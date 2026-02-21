@@ -21,11 +21,11 @@ export default function HomePage() {
 
       {/* Hero */}
       <section className="max-w-6xl mx-auto px-10 pt-20 pb-16 text-center">
-        <div className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full text-xs font-semibold mb-8 uppercase tracking-widest"
+        {/* <div className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full text-xs font-semibold mb-8 uppercase tracking-widest"
           style={{ background: 'var(--indigo-light)', color: 'var(--indigo)', border: '1px solid var(--indigo-border)' }}>
           <span className="w-1.5 h-1.5 rounded-full" style={{ background: 'var(--indigo)' }} />
           AI-Powered · Checkpoint 1 Demo
-        </div>
+        </div> */}
 
         <h1 className="serif text-6xl md:text-7xl mb-6 leading-tight" style={{ color: 'var(--text)', letterSpacing: '-1px' }}>
           The smartest way to find<br />
